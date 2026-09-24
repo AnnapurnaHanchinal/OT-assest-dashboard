@@ -1,0 +1,43 @@
+AssetID,AssetName,AssetType,Owner,Location,Criticality,Status
+CM001,Asset001,Server,InfraTeam,Bengaluru,Critical,Active
+CM002,Asset002,Database,DBATeam,Hyderabad,High,Active
+CM003,Asset003,Application,AppTeam,Chennai,Medium,Maintenance
+CM004,Asset004,Network Device,NetworkTeam,Pune,High,Active
+CM005,Asset005,Workstation,ITSupport,Mumbai,Low,Active
+CM006,Asset006,Server,InfraTeam,Bengaluru,Critical,Active
+CM007,Asset007,Database,DBATeam,Hyderabad,High,Inactive
+CM008,Asset008,Application,AppTeam,Chennai,Medium,Active
+CM009,Asset009,Network Device,NetworkTeam,Pune,High,Maintenance
+CM010,Asset010,Workstation,ITSupport,Mumbai,Low,Active
+CM011,Asset011,Server,InfraTeam,Bengaluru,Critical,Active
+CM012,Asset012,Database,DBATeam,Hyderabad,High,Active
+CM013,Asset013,Application,AppTeam,Chennai,Medium,Inactive
+CM014,Asset014,Network Device,NetworkTeam,Pune,High,Active
+CM015,Asset015,Workstation,ITSupport,Mumbai,Low,Maintenance
+CM016,Asset016,Server,InfraTeam,Bengaluru,Critical,Active
+CM017,Asset017,Database,DBATeam,Hyderabad,High,Active
+CM018,Asset018,Application,AppTeam,Chennai,Medium,Active
+CM019,Asset019,Network Device,NetworkTeam,Pune,High,Inactive
+CM020,Asset020,Workstation,ITSupport,Mumbai,Low,Active
+CM021,Asset021,Server,InfraTeam,Bengaluru,Critical,Maintenance
+CM022,Asset022,Database,DBATeam,Hyderabad,High,Active
+CM023,Asset023,Application,AppTeam,Chennai,Medium,Active
+CM024,Asset024,Network Device,NetworkTeam,Pune,High,Active
+CM025,Asset025,Workstation,ITSupport,Mumbai,Low,Inactive
+CM026,Asset026,Server,InfraTeam,Bengaluru,Critical,Active
+CM027,Asset027,Database,DBATeam,Hyderabad,High,Maintenance
+CM028,Asset028,Application,AppTeam,Chennai,Medium,Active
+CM029,Asset029,Network Device,NetworkTeam,Pune,High,Active
+CM030,Asset030,Workstation,ITSupport,Mumbai,Low,Active
+CM031,Asset031,Server,InfraTeam,Bengaluru,Critical,Active
+CM032,Asset032,Database,DBATeam,Hyderabad,High,Inactive
+CM033,Asset033,Application,AppTeam,Chennai,Medium,Active
+CM034,Asset034,Network Device,NetworkTeam,Pune,High,Maintenance
+CM035,Asset035,Workstation,ITSupport,Mumbai,Low,Active
+CM036,Asset036,Server,InfraTeam,Bengaluru,Critical,Active
+CM037,Asset037,Database,DBATeam,Hyderabad,High,Active
+CM038,Asset038,Application,AppTeam,Chennai,Medium,Inactive
+CM039,Asset039,Network Device,NetworkTeam,Pune,High,Active
+CM040,Asset040,Workstation,ITSupport,Mumbai,Low,Maintenance
+CM041,Asset041,Server,InfraTeam,Bengaluru,Critical,Active
+CM042,Asset042,Database,DBATeam,Hyderabad,High,Active
