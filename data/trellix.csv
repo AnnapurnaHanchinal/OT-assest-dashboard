@@ -1,0 +1,50 @@
+EndpointID,Hostname,OS,ThreatCount,LastScan,Status
+TR001,Asset001,Windows 11,0,2026-09-22,Protected
+TR002,Asset002,Windows 10,2,2026-09-22,Threat Found
+TR003,Asset003,Windows 11,1,2026-09-22,Warning
+TR004,Asset004,Windows Server 2022,0,2026-09-22,Protected
+TR005,Asset005,Windows 10,3,2026-09-22,Threat Found
+TR006,Asset006,Windows 11,0,2026-09-22,Protected
+TR007,Asset007,Windows 10,1,2026-09-22,Warning
+TR008,Asset008,Windows Server 2022,0,2026-09-22,Protected
+TR009,Asset009,Windows 11,4,2026-09-22,Threat Found
+TR010,Asset010,Windows 10,0,2026-09-22,Protected
+TR011,Asset011,Windows 11,2,2026-09-22,Warning
+TR012,Asset012,Windows 10,0,2026-09-22,Protected
+TR013,Asset013,Windows Server 2022,1,2026-09-22,Warning
+TR014,Asset014,Windows 11,0,2026-09-22,Protected
+TR015,Asset015,Windows 10,5,2026-09-22,Threat Found
+TR016,Asset016,Windows 11,0,2026-09-22,Protected
+TR017,Asset017,Windows 10,0,2026-09-22,Protected
+TR018,Asset018,Windows Server 2022,2,2026-09-22,Warning
+TR019,Asset019,Windows 11,1,2026-09-22,Warning
+TR020,Asset020,Windows 10,0,2026-09-22,Protected
+TR021,Asset021,Windows 11,3,2026-09-22,Threat Found
+TR022,Asset022,Windows 10,0,2026-09-22,Protected
+TR023,Asset023,Windows Server 2022,1,2026-09-22,Warning
+TR024,Asset024,Windows 11,0,2026-09-22,Protected
+TR025,Asset025,Windows 10,4,2026-09-22,Threat Found
+TR026,Asset026,Windows 11,0,2026-09-22,Protected
+TR027,Asset027,Windows 10,2,2026-09-22,Warning
+TR028,Asset028,Windows Server 2022,0,2026-09-22,Protected
+TR029,Asset029,Windows 11,1,2026-09-22,Warning
+TR030,Asset030,Windows 10,0,2026-09-22,Protected
+TR031,Asset031,Windows 11,5,2026-09-22,Threat Found
+TR032,Asset032,Windows 10,0,2026-09-22,Protected
+TR033,Asset033,Windows Server 2022,1,2026-09-22,Warning
+TR034,Asset034,Windows 11,0,2026-09-22,Protected
+TR035,Asset035,Windows 10,3,2026-09-22,Threat Found
+TR036,Asset036,Windows 11,0,2026-09-22,Protected
+TR037,Asset037,Windows 10,1,2026-09-22,Warning
+TR038,Asset038,Windows Server 2022,0,2026-09-22,Protected
+TR039,Asset039,Windows 11,2,2026-09-22,Warning
+TR040,Asset040,Windows 10,0,2026-09-22,Protected
+TR041,Asset041,Windows 11,4,2026-09-22,Threat Found
+TR042,Asset042,Windows 10,0,2026-09-22,Protected
+TR043,Asset043,Windows Server 2022,1,2026-09-22,Warning
+TR044,Asset044,Windows 11,0,2026-09-22,Protected
+TR045,Asset045,Windows 10,2,2026-09-22,Warning
+TR046,Asset046,Windows 11,0,2026-09-22,Protected
+TR047,Asset047,Windows 10,5,2026-09-22,Threat Found
+TR048,Asset048,Windows Server 2022,0,2026-09-22,Protected
+
